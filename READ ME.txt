@@ -1,0 +1,15 @@
+This is a small script to download files from the internet.
+
+Requirements:
+
+Linux operating system
+Python
+
+
+Installation:
+
+Open the terminal and run the *.py file.
+Paste the url address that you would like to download the file form.
+Choose the name that you want to save it to.
+
+In a few second you have the file that you have dowloaded.
